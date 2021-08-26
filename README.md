@@ -3,5 +3,4 @@ I developed complex algorithms to make everything functional, wrote jUnit tests,
 This project was part of my learning course in Java, I always liked video games so I gave it a try.
 This is not a finished product but it is playable.
 
-![image](Screenshot 2021-08-26 at 10.57.27.png)
 
